@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;sum2000.sum.java&apos; to &apos;Sum.java&apos;&#x0D;&#x0A;- Original project: &apos;sum2000&apos;&#x0D;&#x0A;- Original element: &apos;sum2000.sum.java&apos;&#x0D;&#x0A;- Renamed element: &apos;sum2000.Sum.java&apos;" description="Rename compilation unit &apos;sum.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;sum2000{sum.java" name="Sum.java" references="false" stamp="1558330775030" version="1.0"/>
+</session>
